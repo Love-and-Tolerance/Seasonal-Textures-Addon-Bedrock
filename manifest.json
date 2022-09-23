@@ -1,0 +1,47 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "Love & Tolerance (Seasons)",
+    "uuid": "3b0ff2eb-0bdf-4996-8824-e5f5449edff7",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "§eMLP:FiM-inspired!\n§r§bLove-Tolerance.com",
+      "type": "resources",
+      "uuid": "90885eab-826d-44fd-8bff-932997502807",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "subpacks":  [
+    {
+      "folder_name":  "winter",
+      "memory_tier": 0,
+      "name":  "§bWinter"
+    },
+    {
+      "folder_name":  "autumn",
+      "memory_tier": 0,
+      "name":  "§6Autumn"
+    },
+    {
+      "folder_name":  "spring",
+      "memory_tier": 0,
+      "name":  "§aSpring"
+    }
+  ]
+}
