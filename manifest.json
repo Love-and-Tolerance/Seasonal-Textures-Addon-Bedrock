@@ -10,9 +10,9 @@
     "name": "Love & Tolerance (Seasons)",
     "uuid": "3b0ff2eb-0bdf-4996-8824-e5f5449edff7",
     "version": [
+      1,
       0,
-      0,
-      1
+      0
     ]
   },
   "modules": [
@@ -21,9 +21,9 @@
       "type": "resources",
       "uuid": "90885eab-826d-44fd-8bff-932997502807",
       "version": [
+        1,
         0,
-        0,
-        1
+        0
       ]
     }
   ],
